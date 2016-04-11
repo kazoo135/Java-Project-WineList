@@ -1,8 +1,11 @@
 # Git ignore file for the Java Project Wine List
+
+#.txt files contained design info and sample outputs
 *.txt
 .classpath
 .project
 .settings
+#refers to the HavaWineProject directory
 *.zip
 JavaWineProject/
 bin/
